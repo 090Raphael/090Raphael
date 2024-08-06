@@ -3,7 +3,7 @@
 
 # Olá meu nome é Raphael
 
-### - Experiência: Sólida experiência na área de suporte em T.I. e eletrônica.
+### - Sólida experiência na área de suporte em T.I. e eletrônica.
 
 
 
