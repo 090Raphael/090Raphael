@@ -2,7 +2,7 @@
 
 ### - Experiência: Sólida experiência na área de suporte em T.I. e eletrônica.
 
-### - Objetivo: Migrar para a área de programação, com foco em desenvolvimento em Java.
+
 
 
 # HABILIDADES
