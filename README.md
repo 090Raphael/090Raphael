@@ -34,3 +34,4 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Visitas&theme=carbonfox&locale=pt_BR&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=496&type=png&background=45%2C000000%2C09346C45)](https://git.io/streak-stats)
